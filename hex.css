@@ -1,0 +1,19 @@
+body {
+  font-size: 150px;
+  color: white;
+  margin: 0 auto;
+}
+
+.container {
+  height: 600px;
+
+  position: relative;
+}
+
+#time {
+  font-family: "Montserrat", sans-serif;
+  top: 300px;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
